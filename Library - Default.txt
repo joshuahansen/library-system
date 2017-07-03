@@ -1,0 +1,12 @@
+b000001:Intro to Java:10:28:no:active:-
+b000002:Learning UML:10:28:no:active:-
+b000003:Design Patterns:10:28:no:active:-
+b000004:Advanced Java:10:28:no:active:-
+v000001:Java 1:4:7:no:active:-
+v000002:Java 2:6:7:no:active:-
+v000003:UML 1:6:7:no:active:-
+v000004:UML 2:4:7:no:active:-
+s000001:Joe Bloggs:35
+s000002:Jane Smith:35
+p000001:Fred Bloggs:45
+p000002:Fred Smith:45
